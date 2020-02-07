@@ -1,0 +1,8 @@
+package katelyn.stuff.lists;
+
+import net.minecraft.item.Item;
+
+public class ItemList 
+{
+	public static Item ice_cream;
+}
